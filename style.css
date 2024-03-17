@@ -1,1 +1,36 @@
+h1{
+    float:center;
+    color: green;
+    font-weight:bolder;
+    font-size:50px;
 
+}
+
+h2{
+    float:center;
+    color: green;
+    font-weight: bold;
+}
+
+body {background-color: lightgray;}
+
+img{ 
+    float: right;
+}
+
+P{
+    float:left;
+    text-align: center;
+    text-size-adjust:25px;
+    color: green;
+}
+
+.toyota {
+    color: aqua;
+    float: none;
+}
+
+.porsche {
+    color: blue;
+    float: none;
+}
