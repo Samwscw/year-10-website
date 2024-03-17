@@ -10,6 +10,7 @@ h2{
     float:center;
     color: green;
     font-weight: bold;
+    text-align: center;
 }
 
 body {background-color: lightgray;}
@@ -33,4 +34,12 @@ P{
 .porsche {
     color: blue;
     float: none;
+}
+
+h1 {
+    text-align: center;
+}
+
+.links {
+    text-align: center;
 }
