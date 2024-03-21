@@ -11,19 +11,24 @@ h2{
     color: green;
     font-weight: bold;
     text-align: center;
+    font-size: 35px;
 }
 
 body {background-color: lightgray;}
 
 img{ 
-    float: right;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+   width: 25%;
+   height: 25%;
 }
 
 P{
-    float:left;
     text-align: center;
     text-size-adjust:25px;
     color: green;
+    font-size: 45px;
 }
 
 .toyota {
@@ -42,4 +47,23 @@ h1 {
 
 .links {
     text-align: center;
+}
+
+img {
+    align-self: center;
+}
+
+hr {
+    height: 2px;
+    width: auto;
+    background-color: green;
+}
+
+h4 {
+    float:center;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+    font-size: 60px;
+
 }
