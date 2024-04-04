@@ -47,13 +47,29 @@ h3 {
 }
 
 .targa {
-    height:1000px;
+    height:800px;
 }
 
 .singer {
-    height:1000px;
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    height: 800px;
     float: right;
+    margin-top:-800px;
 }
+
+.page2car {
+    height: 350px;
+    
+}
+
+.greennaughtycar {
+    height: 200px;
+}
+
+.hidden-text {
+    opacity:0 ;
+}
+
+.hidden-text:hover {
+
+    opacity: 1;
+    }
